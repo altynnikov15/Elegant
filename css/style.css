@@ -1,0 +1,86 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.background {
+    background-image: url("../images/head_backgraund.jpg");
+    height: 100vh;
+    background-size: cover;
+    padding-top: 15px;
+
+}
+
+.head {
+    margin: auto;
+    max-width: 1185px;
+    padding-bottom: 265px;
+}
+
+font {
+    font-style: italic;
+}
+
+.h1 {
+    padding-top: 265px;
+    text-align: center;
+    color: white;
+    font-size: 45px;
+    font-family: 'open sans', sans-serif;
+}
+
+.content {
+    padding-top: 80px;
+    max-width: 770px;
+    display: block;
+    margin: auto;
+}
+
+.content h3 {
+    font-size: 10px;
+    text-transform: uppercase;
+    padding-bottom: 25px;
+    color: #dfc368;
+    text-align: center;
+    font-family: 'opan sans', sans-serif;
+}
+
+.content h2 {
+    text-transform: capitalize;
+    font-size: 25px;
+    color: #4d5c66;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-bottom: 58px;
+    font-weight: 600;
+}
+
+.content p {
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 50px;
+    font-weight: 600;
+}
+
+.btn {
+    text-align: center;
+    padding-bottom: 165px;
+}
+
+.content a {
+    border: 1px solid;
+    padding: 25px 50px;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-size: 10px;
+    color: black;
+    font-family: 'opan sans light', sans-serif;
+    font-weight: 300;
+
+
+
+}
