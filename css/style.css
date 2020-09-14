@@ -20,12 +20,12 @@
     padding-bottom: 265px;
 }
 
-font {
+span {
     font-style: italic;
 }
 
 .h1 {
-    padding-top: 265px;
+    margin-top: 20%;
     text-align: center;
     color: white;
     font-size: 45px;
@@ -82,5 +82,89 @@ font {
     font-weight: 300;
 
 
+}
+
+.pic_block {
+    max-width: 1280px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 160px;
 
 }
+
+.pic_block div {
+    width: 25%;
+}
+
+.workers h3 {
+    font-size: 10px;
+    text-transform: uppercase;
+    padding-bottom: 25px;
+    color: #dfc368;
+    text-align: center;
+    font-family: 'opan sans', sans-serif;
+
+}
+
+.workers h2 {
+    text-transform: capitalize;
+    font-size: 25px;
+    color: #4d5c66;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-bottom: 60px;
+    font-weight: 600;
+}
+
+.workers p {
+
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 50px;
+    font-weight: 600;
+}
+
+.workers_block {
+    margin: auto;
+    max-width: 750px;
+    display: flex;
+    padding-bottom: 165px;
+}
+
+.workers_info {
+    margin: 5px;
+    background-color: #f9f9f9;
+    max-width: 245px;
+
+}
+
+.workers_info h3 {
+    font-size: 10px;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #dfc368;
+    font-family: 'opan sans', sans-serif;
+padding-left: 18px;
+}
+
+.workers_info h2 {
+    padding-left: 18px;
+    text-transform: capitalize;
+    font-size: 15px;
+    color: #4d5c66;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    padding-bottom: 40px;
+}
+
+.workers_info p {
+    margin: 16px;
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 40px;
+    font-weight: 600;
+}
+
