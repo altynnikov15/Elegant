@@ -66,7 +66,7 @@ span {
     font-weight: 600;
 }
 
-.btn {
+.content .btn {
     text-align: center;
     padding-bottom: 165px;
 }
@@ -147,7 +147,7 @@ span {
     padding-bottom: 20px;
     color: #dfc368;
     font-family: 'opan sans', sans-serif;
-padding-left: 18px;
+    padding-left: 18px;
 }
 
 .workers_info h2 {
@@ -167,4 +167,79 @@ padding-left: 18px;
     padding-bottom: 40px;
     font-weight: 600;
 }
+
+.lp h3 {
+    font-size: 10px;
+    text-transform: uppercase;
+    padding-bottom: 25px;
+    color: #dfc368;
+    text-align: center;
+    font-family: 'opan sans', sans-serif;
+}
+
+.lp h2 {
+    text-transform: capitalize;
+    font-size: 25px;
+    color: #4d5c66;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-bottom: 58px;
+    font-weight: 600;
+}
+
+.lp_block {
+    display: block;
+    background-color: #f9f9f9;
+    margin: auto;
+    max-width: 770px;
+}
+
+.lp_block img {
+    padding-bottom: 80px;
+    float: left;
+    padding-right: 40px;
+
+}
+
+.lp_block h3 {
+    font-size: 10px;
+    text-transform: uppercase;
+    padding-top: 43px;
+    padding-bottom: 27px;
+    color: #8f979e;
+    font-family: 'opan sans', sans-serif;
+
+}
+
+.lp_block h2 {
+    text-transform: capitalize;
+    font-size: 17px;
+    color: #505d68;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    padding-bottom: 40px;
+}
+
+.lp_block p {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    color: #7a848c;
+    padding-bottom: 60px;
+}
+
+.lp_btn {
+padding-bottom: 113px;
+}
+
+.lp_info a {
+    border: 1px solid;
+    padding: 20px 45px;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-size: 10px;
+    color: black;
+    font-family: 'opan sans light', sans-serif;
+    font-weight: 300;
+}
+
 
