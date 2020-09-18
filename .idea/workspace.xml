@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74a35247-bf7b-450e-ad91-9fc0f423abed" name="Default Changelist" comment="add workers info whit pic">
+    <list default="true" id="74a35247-bf7b-450e-ad91-9fc0f423abed" name="Default Changelist" comment="add section last post">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -51,12 +51,16 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="74a35247-bf7b-450e-ad91-9fc0f423abed" name="Default Changelist" comment="" />
@@ -72,7 +76,9 @@
       <workItem from="1599906956230" duration="860000" />
       <workItem from="1599908621910" duration="897000" />
       <workItem from="1600021265990" duration="752000" />
-      <workItem from="1600025066481" duration="10526000" />
+      <workItem from="1600025066481" duration="14323000" />
+      <workItem from="1600202368214" duration="1560000" />
+      <workItem from="1600374162229" duration="8615000" />
     </task>
     <task id="LOCAL-00001" summary="add workers info whit pic">
       <created>1600075036724</created>
@@ -81,11 +87,18 @@
       <option name="project" value="LOCAL" />
       <updated>1600075036724</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add section last post">
+      <created>1600083633234</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600083633234</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -97,16 +110,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add workers info whit pic" />
-    <option name="LAST_COMMIT_MESSAGE" value="add workers info whit pic" />
+    <MESSAGE value="add section last post" />
+    <option name="LAST_COMMIT_MESSAGE" value="add section last post" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600075042353">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600083636483">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600075042353" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600083636483" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599866407497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

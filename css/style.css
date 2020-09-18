@@ -88,14 +88,12 @@ span {
     max-width: 1280px;
     margin: auto;
     display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
     padding-bottom: 160px;
 
 }
 
-.pic_block div {
-    width: 25%;
-}
 
 .workers h3 {
     font-size: 10px;
@@ -130,6 +128,7 @@ span {
     margin: auto;
     max-width: 750px;
     display: flex;
+    justify-content: space-between;
     padding-bottom: 165px;
 }
 
@@ -188,15 +187,15 @@ span {
 }
 
 .lp_block {
-    display: block;
+
+    display: flex;
+    justify-content: space-between;
     background-color: #f9f9f9;
-    margin: auto;
+
     max-width: 770px;
 }
 
 .lp_block img {
-    padding-bottom: 80px;
-    float: left;
     padding-right: 40px;
 
 }
@@ -227,9 +226,6 @@ span {
     padding-bottom: 60px;
 }
 
-.lp_btn {
-padding-bottom: 113px;
-}
 
 .lp_info a {
     border: 1px solid;
@@ -241,5 +237,94 @@ padding-bottom: 113px;
     font-family: 'opan sans light', sans-serif;
     font-weight: 300;
 }
+.about_blog{
+    padding-top: 85px;
+    text-align: center;
+    padding-bottom: 160px;
+}
+.about_blog a {
+    border: 1px solid;
+    padding: 25px 50px;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-size: 10px;
+    color: black;
+    font-family: 'opan sans light', sans-serif;
+    font-weight: 300;
+
+}
+.contact_us h3{
+    font-size: 10px;
+    text-transform: uppercase;
+    padding-bottom: 25px;
+    color: #dfc368;
+    text-align: center;
+    font-family: 'opan sans', sans-serif;
+
+}
+.contact_us h2{
+    text-transform: capitalize;
+    font-size: 25px;
+    color: #4d5c66;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-bottom: 58px;
+    font-weight: 600;
+}
+.contact_block{
+    background-color: #f9f9f9;
+    padding-bottom: 45px;
+    max-width: 770px;
+    display: block;
+    margin: auto;
+
+}
+.flexing{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.flexing div{
+    width: 50%;
+    text-align: center;
+}
+.flexing h3{
+    padding-top: 50px;
+    font-size: 10px;
+    text-transform: uppercase;
+    padding-bottom: 50px;
+    color: #5a6671;
+    text-align: center;
+    font-family: 'opan sans', sans-serif;
+
+}
+.flexing p{
+    line-height: 20px;
+    font-size: 15px;
+    color: #505d68;
+}
+footer{
+    background-color:#f9f9f9 ;
+    margin-top: 80px ;
+}
+.footer{
+    max-width: 770px;
+    display: flex;
+    margin: auto;
+
+
+    justify-content: space-between;
+
+}
+.footer p{
+    padding: 45px 20px;
+    color: #636f78;
+    font-size: 10px;
+    font-family: 'opan sans light', sans-serif;
+}
+img{
+    width: auto;
+}
+
 
 
