@@ -187,18 +187,18 @@ span {
 }
 
 .lp_block {
+    background-color: #f9f9f9;
+    max-width: 770px;
+    display: block;
+    margin: auto;
+}
+.lp_flex{
 
     display: flex;
-    justify-content: space-between;
-    background-color: #f9f9f9;
-
-    max-width: 770px;
+    justify-content: space-around;
 }
 
-.lp_block img {
-    padding-right: 40px;
 
-}
 
 .lp_block h3 {
     font-size: 10px;

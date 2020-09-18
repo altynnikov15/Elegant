@@ -19,7 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74a35247-bf7b-450e-ad91-9fc0f423abed" name="Default Changelist" comment="add section last post">
+    <list default="true" id="74a35247-bf7b-450e-ad91-9fc0f423abed" name="Default Changelist" comment="add block contact us, add footer&#10;add media-queries">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PIC1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PIC2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PIC3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PIC4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PIC5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PIC6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PIC7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PIC8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ceo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/desginer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/developer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mob_background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pic10.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -78,7 +94,7 @@
       <workItem from="1600021265990" duration="752000" />
       <workItem from="1600025066481" duration="14323000" />
       <workItem from="1600202368214" duration="1560000" />
-      <workItem from="1600374162229" duration="8615000" />
+      <workItem from="1600374162229" duration="9916000" />
     </task>
     <task id="LOCAL-00001" summary="add workers info whit pic">
       <created>1600075036724</created>
@@ -94,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600083633234</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add block contact us, add footer&#10;add media-queries">
+      <created>1600404517578</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600404517580</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +138,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add workers info whit pic" />
     <MESSAGE value="add section last post" />
-    <option name="LAST_COMMIT_MESSAGE" value="add section last post" />
+    <MESSAGE value="add block contact us, add footer&#10;add media-queries" />
+    <option name="LAST_COMMIT_MESSAGE" value="add block contact us, add footer&#10;add media-queries" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600083636483">

@@ -1,0 +1,54 @@
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 992px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+
+
+    .background {
+        background-image: url("../images/mob_background.jpg");
+    }
+
+    .pic_block {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .workers_block{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .lp_block{
+        flex-direction: column;
+        justify-content: center;
+
+    }
+
+    .map{
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width: 420px) {
+
+}
+
+@media only screen and (max-width: 375px) {
+
+}
+
+@media only screen and (max-width: 360px) {
+
+}
+
+@media only screen and (max-width: 320px) {
+
+}
