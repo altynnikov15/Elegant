@@ -15,10 +15,9 @@
 
     .pic_block {
         flex-direction: column;
-        justify-content: center;
-        align-items: center;
-
+        text-align: center;
     }
+
 
     .workers_block{
         flex-direction: column;
@@ -34,7 +33,20 @@
     .map{
         width: 100%;
     }
+    .lp_flex{
+        flex-direction: column;
+    }
+.flexing {
+    flex-direction: column;
 
+}
+.flexing div{
+    margin: auto;
+}
+.footer{
+    flex-direction: column;
+
+}
 }
 
 @media only screen and (max-width: 420px) {

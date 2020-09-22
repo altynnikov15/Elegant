@@ -15,9 +15,14 @@
 }
 
 .head {
-    margin: auto;
+    position: fixed;
+    width: 100%;
+    padding-bottom: 170px;
+}
+
+.logo {
     max-width: 1185px;
-    padding-bottom: 265px;
+    margin: auto;
 }
 
 span {
@@ -25,10 +30,10 @@ span {
 }
 
 .h1 {
-    margin-top: 20%;
+    margin-top: 25%;
     text-align: center;
     color: white;
-    font-size: 45px;
+    font-size: 58px;
     font-family: 'open sans', sans-serif;
 }
 
@@ -40,7 +45,7 @@ span {
 }
 
 .content h3 {
-    font-size: 10px;
+    font-size: 16px;
     text-transform: uppercase;
     padding-bottom: 25px;
     color: #dfc368;
@@ -50,7 +55,7 @@ span {
 
 .content h2 {
     text-transform: capitalize;
-    font-size: 25px;
+    font-size: 44px;
     color: #4d5c66;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
@@ -60,7 +65,7 @@ span {
 
 .content p {
     text-align: center;
-    font-size: 10px;
+    font-size: 18px;
     font-family: 'Open Sans', sans-serif;
     padding-bottom: 50px;
     font-weight: 600;
@@ -76,7 +81,7 @@ span {
     padding: 25px 50px;
     text-transform: capitalize;
     text-decoration: none;
-    font-size: 10px;
+    font-size: 16px;
     color: black;
     font-family: 'opan sans light', sans-serif;
     font-weight: 300;
@@ -92,11 +97,12 @@ span {
     flex-wrap: wrap;
     padding-bottom: 160px;
 
+
 }
 
 
 .workers h3 {
-    font-size: 10px;
+    font-size: 14px;
     text-transform: uppercase;
     padding-bottom: 25px;
     color: #dfc368;
@@ -104,10 +110,16 @@ span {
     font-family: 'opan sans', sans-serif;
 
 }
+.img_workers{
+    width: 244px; height: 192px;
+}
+.img_workers img{
+    width: 100%;
+}
 
 .workers h2 {
     text-transform: capitalize;
-    font-size: 25px;
+    font-size: 44px;
     color: #4d5c66;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
@@ -118,7 +130,7 @@ span {
 .workers p {
 
     text-align: center;
-    font-size: 10px;
+    font-size: 18px;
     font-family: 'Open Sans', sans-serif;
     padding-bottom: 50px;
     font-weight: 600;
@@ -140,7 +152,7 @@ span {
 }
 
 .workers_info h3 {
-    font-size: 10px;
+    font-size: 13px;
     text-transform: uppercase;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -152,7 +164,7 @@ span {
 .workers_info h2 {
     padding-left: 18px;
     text-transform: capitalize;
-    font-size: 15px;
+    font-size: 21px;
     color: #4d5c66;
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
@@ -168,7 +180,7 @@ span {
 }
 
 .lp h3 {
-    font-size: 10px;
+    font-size: 16px;
     text-transform: uppercase;
     padding-bottom: 25px;
     color: #dfc368;
@@ -178,30 +190,39 @@ span {
 
 .lp h2 {
     text-transform: capitalize;
-    font-size: 25px;
+    font-size: 44px;
     color: #4d5c66;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
     padding-bottom: 58px;
     font-weight: 600;
 }
-
-.lp_block {
-    background-color: #f9f9f9;
+.lp_block{
     max-width: 770px;
     display: block;
     margin: auto;
 }
-.lp_flex{
 
-    display: flex;
-    justify-content: space-around;
+.lp_info{
+    background-color: #f9f9f9;
+    display: block;
+    padding-left: 40px;
+    padding-right: 60px;
+
+}
+
+.lp_flex {
+
+display: flex;
+    justify-content: center;
+}
+.lp_pic{
+    width: 100%;
 }
 
 
-
 .lp_block h3 {
-    font-size: 10px;
+    font-size: 13px;
     text-transform: uppercase;
     padding-top: 43px;
     padding-bottom: 27px;
@@ -212,7 +233,7 @@ span {
 
 .lp_block h2 {
     text-transform: capitalize;
-    font-size: 17px;
+    font-size: 30px;
     color: #505d68;
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
@@ -220,41 +241,45 @@ span {
 }
 
 .lp_block p {
-    font-size: 10px;
+    font-size: 13px;
     font-family: 'Open Sans', sans-serif;
     color: #7a848c;
     padding-bottom: 60px;
 }
-
-
+.lp_btn{
+    padding-bottom: 60px;
+}
 .lp_info a {
     border: 1px solid;
     padding: 20px 45px;
     text-transform: capitalize;
     text-decoration: none;
-    font-size: 10px;
+    font-size: 14px;
     color: black;
     font-family: 'opan sans light', sans-serif;
     font-weight: 300;
 }
-.about_blog{
+
+.about_blog {
     padding-top: 85px;
     text-align: center;
     padding-bottom: 160px;
 }
+
 .about_blog a {
     border: 1px solid;
     padding: 25px 50px;
     text-transform: capitalize;
     text-decoration: none;
-    font-size: 10px;
+    font-size: 14px;
     color: black;
     font-family: 'opan sans light', sans-serif;
     font-weight: 300;
 
 }
-.contact_us h3{
-    font-size: 10px;
+
+.contact_us h3 {
+    font-size: 16px;
     text-transform: uppercase;
     padding-bottom: 25px;
     color: #dfc368;
@@ -262,16 +287,18 @@ span {
     font-family: 'opan sans', sans-serif;
 
 }
-.contact_us h2{
+
+.contact_us h2 {
     text-transform: capitalize;
-    font-size: 25px;
+    font-size: 44px;
     color: #4d5c66;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
     padding-bottom: 58px;
     font-weight: 600;
 }
-.contact_block{
+
+.contact_block {
     background-color: #f9f9f9;
     padding-bottom: 45px;
     max-width: 770px;
@@ -279,18 +306,21 @@ span {
     margin: auto;
 
 }
-.flexing{
+
+.flexing {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.flexing div{
+
+.flexing div {
     width: 50%;
     text-align: center;
 }
-.flexing h3{
+
+.flexing h3 {
     padding-top: 50px;
-    font-size: 10px;
+    font-size: 13px;
     text-transform: uppercase;
     padding-bottom: 50px;
     color: #5a6671;
@@ -298,16 +328,19 @@ span {
     font-family: 'opan sans', sans-serif;
 
 }
-.flexing p{
+
+.flexing p {
     line-height: 20px;
-    font-size: 15px;
+    font-size: 19px;
     color: #505d68;
 }
-footer{
-    background-color:#f9f9f9 ;
-    margin-top: 80px ;
+
+footer {
+    background-color: #f9f9f9;
+    margin-top: 80px;
 }
-.footer{
+
+.footer {
     max-width: 770px;
     display: flex;
     margin: auto;
@@ -316,15 +349,16 @@ footer{
     justify-content: space-between;
 
 }
-.footer p{
+
+.footer p {
     padding: 45px 20px;
     color: #636f78;
-    font-size: 10px;
+    font-size: 16px;
     font-family: 'opan sans light', sans-serif;
 }
-img{
+
+img {
     width: auto;
 }
-
 
 
