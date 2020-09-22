@@ -19,11 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74a35247-bf7b-450e-ad91-9fc0f423abed" name="Default Changelist" comment="edited block lp">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/media-queries.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="74a35247-bf7b-450e-ad91-9fc0f423abed" name="Default Changelist" comment="add madia-queries for index.html&#10;add page about &#10;add madia-queries for about">
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/madia-queries_about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style_about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/PIC7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/background_about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/background_about_mob.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/background_head_mob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/services.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +88,7 @@
       <workItem from="1600202368214" duration="1560000" />
       <workItem from="1600374162229" duration="10870000" />
       <workItem from="1600517338684" duration="1668000" />
-      <workItem from="1600715841717" duration="13391000" />
+      <workItem from="1600715841717" duration="13800000" />
     </task>
     <task id="LOCAL-00001" summary="add workers info whit pic">
       <created>1600075036724</created>
@@ -114,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600405764757</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add madia-queries for index.html&#10;add page about &#10;add madia-queries for about">
+      <created>1600813988298</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600813988300</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +148,8 @@
     <MESSAGE value="add section last post" />
     <MESSAGE value="add block contact us, add footer&#10;add media-queries" />
     <MESSAGE value="edited block lp" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited block lp" />
+    <MESSAGE value="add madia-queries for index.html&#10;add page about &#10;add madia-queries for about" />
+    <option name="LAST_COMMIT_MESSAGE" value="add madia-queries for index.html&#10;add page about &#10;add madia-queries for about" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600083636483">

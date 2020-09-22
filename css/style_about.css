@@ -1,0 +1,127 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.background {
+    background-image: url("../images/background_about.jpg");
+    height: 100vh;
+    background-size: cover;
+    padding-top: 15px;
+
+}
+
+.head {
+    position: fixed;
+    width: 100%;
+}
+
+.logo {
+    max-width: 1185px;
+    margin: auto;
+}
+
+.block {
+    font-family: 'opan sans light', sans-serif;
+    font-size: 18px;
+    color: #4d5c66;
+    padding-bottom: 160px;
+    padding-top: 170px;
+    max-width: 770px;
+    margin: auto;
+    text-align: center;
+    line-height: 20px;
+
+
+}
+
+.services {
+    max-width: 1280px;
+    display: block;
+    margin: auto;
+
+
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.img img {
+    width: 100%;
+}
+
+.content {
+    background-color: #f9f9f9;
+
+}
+
+.h3 {
+    padding-bottom: 90px;
+    padding-top: 55px;
+    padding-left: 40px;
+    font-size: 45px;
+    color: #505d68;
+    font-family: 'opan sans semibold', sans-serif;
+    text-transform: capitalize;
+
+}
+
+.p {
+    font-family: 'opan sans light', sans-serif;
+    font-size: 18px;
+    max-width: 220px;
+    line-height: 20px;
+    color: #505d68;
+    padding-left: 55px;
+}
+
+.list {
+    max-width: 230px;
+
+    margin-left: 55px;
+    color: #505d68;
+    line-height: 20px;
+    font-size: 18px;
+    font-family: 'opan sans light', sans-serif;
+    padding-top: 40px;
+
+}
+
+li {
+    list-style-type: none;
+
+}
+
+li:before {
+    content: "-";
+    padding-right: 10px;
+
+}
+
+footer {
+    background-color: #f9f9f9;
+}
+
+.footer {
+    max-width: 770px;
+    display: flex;
+    margin: auto;
+
+
+    justify-content: space-between;
+
+}
+
+.footer p {
+    padding: 45px 20px;
+    color: #636f78;
+    font-size: 16px;
+    font-family: 'opan sans light', sans-serif;
+}

@@ -1,0 +1,51 @@
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 992px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+
+    .background{
+        background-image: url("../images/background_about_mob.jpg");
+
+    }
+    .head{
+        background-image: url("../images/background_head_mob.png");
+        padding-top: 15px;
+        padding-bottom: 17px;
+        padding-left: 28px;
+        top: 0  ;
+
+    }
+    .flex{
+        flex-direction: column;
+    }
+    .img{
+        width: 100%;
+
+    }
+
+    .footer{
+        flex-direction: column;
+
+    }
+}
+
+@media only screen and (max-width: 420px) {
+
+}
+
+@media only screen and (max-width: 375px) {
+
+}
+
+@media only screen and (max-width: 360px) {
+
+}
+
+@media only screen and (max-width: 320px) {
+
+}
