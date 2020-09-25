@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="74a35247-bf7b-450e-ad91-9fc0f423abed" name="Default Changelist" comment="add madia-queries for index.html&#10;add page about &#10;add madia-queries for about">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,8 @@
       <workItem from="1600374162229" duration="10870000" />
       <workItem from="1600517338684" duration="1668000" />
       <workItem from="1600715841717" duration="13974000" />
-      <workItem from="1600891926954" duration="11965000" />
+      <workItem from="1600891926954" duration="12941000" />
+      <workItem from="1601036328369" duration="6549000" />
     </task>
     <task id="LOCAL-00001" summary="add workers info whit pic">
       <created>1600075036724</created>

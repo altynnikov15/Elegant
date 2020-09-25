@@ -1,0 +1,74 @@
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 992px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+    .background{
+        background-image:none;
+        height: 210px;
+        max-width: 1280px;
+        margin: auto;
+        margin-bottom: 78px;
+
+    }
+    .head{
+        background-image: url("../images/background_head_mob.png");
+        padding-top: 15px;
+        padding-bottom: 17px;
+        padding-left: 28px;
+        top: 0  ;
+        position: fixed;
+
+    }
+    .contacts{
+        display: block;
+        flex-direction: column;
+        max-width: 670px;
+        margin: auto;
+
+    }
+    .block_3{
+        height: 375px;
+        width: 100%;
+    }
+    .block_1{
+        height: 375px;
+        width: 100%;
+    }
+    .block_2{
+        height: 375px;
+        width: 100%;
+    }
+    .block_2 .p p{
+        width:290px;
+    }
+    .pic_block img{
+        width: 100%;
+    }
+    .footer{
+        flex-direction: column;
+
+    }
+
+
+}
+
+@media only screen and (max-width: 420px) {
+
+}
+
+@media only screen and (max-width: 375px) {
+
+}
+
+@media only screen and (max-width: 360px) {
+
+}
+
+@media only screen and (max-width: 320px) {
+
+}
