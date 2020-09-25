@@ -9,11 +9,14 @@
 @media only screen and (max-width: 767px) {
     .background{
         background-image:none;
-        height: 210px;
+        height: 100px;
         max-width: 1280px;
         margin: auto;
         margin-bottom: 78px;
 
+    }
+    h4{
+        padding-top: 0;
     }
     .head{
         background-image: url("../images/background_head_mob.png");
