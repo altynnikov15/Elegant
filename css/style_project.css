@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.background {
+    background-image: url("../images/project_background.jpg");
+    height: 100vh;
+    background-size: cover;
+    padding-top: 15px;
+    margin-bottom: 85px;
+
+}
+
+.head {
+    position: fixed;
+    width: 100%;
+    padding-bottom: 170px;
+}
+
+.logo {
+    max-width: 1185px;
+    margin: auto;
+}
+
+.container {
+    display: block;
+    margin: auto;
+    max-width: 1150px;
+    background-color: #f9f9f9;
+    margin-bottom: 108px;
+}
+
+.block_1 {
+    padding-left: 65px;
+    padding-bottom: 65px;
+}
+
+.block_1 h3 {
+    padding-top: 95px;
+    font-size: 45px;
+    font-family: 'opan sans', sans-serif;
+    font-weight: 700;
+    padding-bottom: 130px;
+}
+
+.block_1 p {
+    font-size: 20px;
+    font-family: 'Cardo';
+    width: 600px;
+    padding-bottom: 108px;
+}
+
+span {
+    font-weight: 700;
+}
+
+.flexing {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pic {
+    padding-left: 55px;
+    padding-top: 65px;
+}
+
+.flexing_btn {
+    margin: auto;
+    max-width: 1020px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 75px;
+}
+
+.btn a {
+    border: 1px solid #a1a1a1;
+    padding: 25px 85px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 15px;
+    color: #c0c0c0;
+    font-family: 'opan sans', sans-serif;
+    font-weight: 300;
+
+
+}
+footer {
+    background-color: #f9f9f9;
+}
+
+.footer {
+    max-width: 770px;
+    display: flex;
+    margin: auto;
+
+
+    justify-content: space-between;
+
+}
+
+.footer p {
+    padding: 45px 20px;
+    color: #636f78;
+    font-size: 16px;
+    font-family: 'opan sans', sans-serif;
+    font-weight: 300;
+}

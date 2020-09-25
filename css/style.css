@@ -346,6 +346,7 @@ footer {
     margin: auto;
 
 
+
     justify-content: space-between;
 
 }
@@ -354,7 +355,8 @@ footer {
     padding: 45px 20px;
     color: #636f78;
     font-size: 16px;
-    font-family: 'opan sans light', sans-serif;
+    font-family: 'opan sans', sans-serif;
+    font-weight: 300;
 }
 
 img {

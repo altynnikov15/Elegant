@@ -9,29 +9,44 @@
 @media only screen and (max-width: 767px) {
 
     .background{
-        background-image: url("../images/background_about_mob.jpg");
-
+        background-image: url("../images/project_background_mob.jpg");
+height: 1337px;
     }
-    .head{
+    .head {
         background-image: url("../images/background_head_mob.png");
         padding-top: 15px;
         padding-bottom: 17px;
         padding-left: 28px;
-        top: 0  ;
+        top: 0;
         position: fixed;
-
     }
-    .flex{
+    .flexing{
         flex-direction: column;
     }
-    .img{
-        width: 100%;
-
+    .block_1 {
+        padding-left: 0;
     }
+    .block_1 p{
+        width: auto;
+        height: 700px;
+    }
+    .block_1 img{
+        width: 100%;
+    }
+.pic img{
+    width: 100%;
+}
+.pic{
+    padding-left: 0;
+}
+
 
     .footer{
         flex-direction: column;
 
+    }
+    .flexing_btn{
+        display: none;
     }
 
 }
