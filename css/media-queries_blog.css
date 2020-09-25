@@ -1,0 +1,57 @@
+@media only screen and (max-width: 767px) {
+
+    .background{
+        background-image:none;
+        height: 210px;
+        max-width: 1280px;
+        margin: auto;
+        margin-bottom: 78px;
+
+    }
+    .head{
+        background-image: url("../images/background_head_mob.png");
+        padding-top: 15px;
+        padding-bottom: 17px;
+        padding-left: 28px;
+        top: 0  ;
+
+    }
+    .flex{
+        flex-direction: column;
+    }
+    .block{
+        background-color: #f9f9f9;
+        max-width: 1150px;
+        padding: 0;
+        margin: auto;
+    }
+    .footer{
+        flex-direction: column;
+
+    }
+    ul li img{
+        display: block;
+        width: 100%;
+        margin: auto;
+    }
+
+
+
+
+}
+
+@media only screen and (max-width: 420px) {
+
+}
+
+@media only screen and (max-width: 375px) {
+
+}
+
+@media only screen and (max-width: 360px) {
+
+}
+
+@media only screen and (max-width: 320px) {
+
+}

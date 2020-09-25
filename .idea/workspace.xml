@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a35247-bf7b-450e-ad91-9fc0f423abed" name="Default Changelist" comment="add madia-queries for index.html&#10;add page about &#10;add madia-queries for about">
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/madia-queries_about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style_about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/PIC7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/background_about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/background_about_mob.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/background_head_mob.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/services.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +82,8 @@
       <workItem from="1600202368214" duration="1560000" />
       <workItem from="1600374162229" duration="10870000" />
       <workItem from="1600517338684" duration="1668000" />
-      <workItem from="1600715841717" duration="13800000" />
+      <workItem from="1600715841717" duration="13974000" />
+      <workItem from="1600891926954" duration="11965000" />
     </task>
     <task id="LOCAL-00001" summary="add workers info whit pic">
       <created>1600075036724</created>
@@ -156,9 +151,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600083636483" />
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599866407497">
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600814514986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1599866407497" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1600814514986" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600814525129">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600814525129" />
   </component>
 </project>
