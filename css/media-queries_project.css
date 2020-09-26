@@ -24,7 +24,8 @@ height: 1337px;
         flex-direction: column;
     }
     .block_1 {
-        padding-left: 0;
+        padding-left: 35px;
+        padding-right: 35px;
     }
     .block_1 p{
         width: auto;
@@ -37,7 +38,8 @@ height: 1337px;
     width: 100%;
 }
 .pic{
-    padding-left: 0;
+    padding-left: 35px;
+    padding-right: 35px;
 }
 
 
