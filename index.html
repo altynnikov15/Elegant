@@ -6,14 +6,37 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Elegant</title>
+    <link rel="stylesheet" href="fonts/fontawesome-free-5.0.8/web-fonts-with-css/css/fontawesome-all.css">
+
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,600;1,300&display=swap"
           rel="stylesheet">
+
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="https://resources/demos/style.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/media-queries.css">
 
 
 </head>
 <body>
+<div id="dialog" title="forgot your password?">
+    <div class="dia_block">
+        <form action="" method="post">
+            <div class="form_flex">
+                <label class="email" for="email">Enter your email:</label>
+                <input type="email" id="email" name="email">
+            </div>
+            <button class="form_btn" type="submit">reset password</button>
+
+        </form>
+        <h4>or</h4>
+        <div class="fb_link">
+            <a href="https://www.facebook.com/"> <i class="fab fa-facebook-f"></i>Log In Using Facebook</a>
+        </div>
+    </div>
+
+
+</div>
 <section class="background">
     <header class="head">
         <div class="logo">
@@ -35,7 +58,7 @@
         sequitur mutationem consuetudium<br> lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum
         claram,<br> anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta<br> decima. Eodem
         modo typi, qui nunc, fiant sollemnes in futurum.</p>
-    <div class="btn"><a href="about.html">
+    <div class="btn"><a id="opener">
         read more about us
 
     </a>
@@ -83,7 +106,7 @@
 <section class="workers_block">
     <div class="workers_info">
         <div class="img_workers">
-        <img src="images/ceo.jpg" alt="">
+            <img src="images/ceo.jpg" alt="">
         </div>
         <h3>ceo</h3>
         <h2>Tobias Schneider</h2>
@@ -95,7 +118,7 @@
 
     <div class="workers_info">
         <div class="img_workers">
-        <img src="images/desginer.jpg" alt="">
+            <img src="images/desginer.jpg" alt="">
         </div>
         <h3>designer</h3>
         <h2>Jack Knife</h2>
@@ -106,8 +129,8 @@
 
     <div class="workers_info">
         <div class="img_workers">
-        <img src="images/developer.jpg" alt="">
-    </div>
+            <img src="images/developer.jpg" alt="">
+        </div>
         <h3>developer</h3>
         <h2>Ricki Hall</h2>
         <p>Lorem ipsum dolor sit amet, conse tetuer adi piscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
@@ -150,7 +173,9 @@
     <h2>work with us</h2>
     <div class="contact_block">
 
-        <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1282.4700460854326!2d36.230862958140506!3d49.99373261917013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4127a13283ccc9cf%3A0xf76d2482afdb8620!2zTEVNT04uU0NIT09MIPCfjYsgSVQt0LrRg9GA0YHRiyDQsiDQpdCw0YDRjNC60L7QstC1IOKEluKeii4g0JbQnNCYIOKenOKenCBpT1MgU0VPIFBIUCBKUyBKYXZhc2NyaXB0IFFBIFBNIEhUTUwgQ1NTINCy0LXRgNGB0YLQutC4IEhSIFBQQyBKQVZBIERFU0lHTiBTTU0g0LIg0YHQvtGGINGB0LXRgtGP0YUg0LLQtdCxLdC00LjQt9Cw0LnQvSDQvNCw0YDQutC10YLQuNC90LMg0YTQvtGC0L7RiNC-0L8g0L_RgNC-0LTQstC40LbQtdC90LjQtSDRgdCw0LnRgtC-0LIg0YDQtdC60LvQsNC80LAgUFIg0LrQvtC80L_RjNGO0YLQtdGA0L3Ri9C1INC60YPRgNGBINGC0LXRgdGC0LjRgNC-0LLRidC40LrQvtCyINCY0KIg0L7QsdGD0YfQtdC90LjQtSDQsNC50YLQuCDQvtCx0YDQsNC30L7QstCw0L3QuNC1INC_0YDQvtCz0YDQsNC80LzQuNGA0L7QstCw0L3QuNGPINCl0LDRgNGM0LrQvtCy!5e0!3m2!1sru!2sua!4v1600718695731!5m2!1sru!2sua" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1282.4700460854326!2d36.230862958140506!3d49.99373261917013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4127a13283ccc9cf%3A0xf76d2482afdb8620!2zTEVNT04uU0NIT09MIPCfjYsgSVQt0LrRg9GA0YHRiyDQsiDQpdCw0YDRjNC60L7QstC1IOKEluKeii4g0JbQnNCYIOKenOKenCBpT1MgU0VPIFBIUCBKUyBKYXZhc2NyaXB0IFFBIFBNIEhUTUwgQ1NTINCy0LXRgNGB0YLQutC4IEhSIFBQQyBKQVZBIERFU0lHTiBTTU0g0LIg0YHQvtGGINGB0LXRgtGP0YUg0LLQtdCxLdC00LjQt9Cw0LnQvSDQvNCw0YDQutC10YLQuNC90LMg0YTQvtGC0L7RiNC-0L8g0L_RgNC-0LTQstC40LbQtdC90LjQtSDRgdCw0LnRgtC-0LIg0YDQtdC60LvQsNC80LAgUFIg0LrQvtC80L_RjNGO0YLQtdGA0L3Ri9C1INC60YPRgNGBINGC0LXRgdGC0LjRgNC-0LLRidC40LrQvtCyINCY0KIg0L7QsdGD0YfQtdC90LjQtSDQsNC50YLQuCDQvtCx0YDQsNC30L7QstCw0L3QuNC1INC_0YDQvtCz0YDQsNC80LzQuNGA0L7QstCw0L3QuNGPINCl0LDRgNGM0LrQvtCy!5e0!3m2!1sru!2sua!4v1600718695731!5m2!1sru!2sua"
+                width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
+                tabindex="0"></iframe>
         <div class="flexing">
             <div>
                 <h3>location</h3>
@@ -184,7 +209,10 @@
     </div>
 
 </footer>
-
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"
+        integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="JS/index.dialog.js"></script>
 
 </body>
 </html>

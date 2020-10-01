@@ -1,4 +1,20 @@
 
+@font-face {
+    font-family: 'Now-Bold';
+    src: url('../fonts/now/NowAlt-Bold.eot');
+    src: local('☺'), url('../fonts/now/NowAlt-Bold.woff') format('woff'), url('../fonts/now/NowAlt-Bold.ttf') format('truetype'), url('../fonts/now/NowAlt-Bold.svg') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Now-Medium';
+    src: url('../fonts/now/NowAlt-Medium.eot');
+    src: local('☺'), url('../fonts/now/NowAlt-Medium.woff') format('woff'), url('../fonts/now/NowAlt-Medium.ttf') format('truetype'), url('../fonts/now/NowAlt-Medium.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
 * {
     margin: 0;
     padding: 0;
@@ -361,6 +377,119 @@ footer {
 
 img {
     width: auto;
+}
+.ui-dialog .ui-dialog-title {
+    text-align: center;
+    margin: 40px;
+    font-size:24px ;
+    text-transform: uppercase;
+    font-style: normal;
+    font-family: 'Now-Bold', sans-serif;
+    color: white;
+
+}
+.ui-widget-header {
+    background-color: black;
+    max-width: 750px;
+    font-weight: bold;
+}
+
+.ui-dialog{
+    padding: 0!important;
+    border: 0;
+    max-width: 750px!important;
+    width: 100% !important;
+
+}
+.ui-widget-content {
+    border: none!important;
+    padding: 0;
+    background-color: #fbfbfb!important;
+    color: #333333;
+    border-bottom-right-radius: 10px!important;
+    border-bottom-left-radius: 10px!important;
+}
+
+.email{
+    font-size: 22px;
+    font-family: 'Now-Medium',sans-serif;
+    text-transform: uppercase;
+    padding-left: 80px;
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+}
+form{
+    padding-top: 43px;
+}
+.ui-widget input{
+    height: 60px;
+    width: 385px;
+    display: inline-block;
+    margin-left: 50px;
+    font-size:25px ;
+    font-family: 'Now-Medium', sans-serif;
+    border: 1px solid #b9b9b9 ;
+    border-bottom: none;
+    outline: none;
+
+
+}
+.form_flex{
+    max-width: 625px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+.ui-widget button{
+    height: 60px;
+    width: 528px;
+    font-size: 24px;
+    font-family: 'Now-bold',sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
+    background-color: #b9b9b9;
+    border: none;
+}
+.form_btn {
+    display: block;
+    margin: auto;
+
+}
+#dialog  h4{
+    text-align: center;
+    font-family: 'Now-Medium',sans-serif;
+    font-size: 22px;
+    color: #363636;
+    text-transform: uppercase;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.fb_link{
+    background-color:#4865a4 ;
+    height: 60px;
+    width: 528px;
+    font-size: 24px;
+    font-family: 'Now-bold',sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: block;
+    margin: auto;
+
+}
+.fb_link a {
+    display: inline-block;
+    text-align: center;
+    color: white;
+    padding: 20px 85px;
+}
+.fa-facebook-f{
+    padding-right: 16px;
+    font-weight: 300;
+}
+.dia_block{
+    padding-bottom: 166px;
 }
 
 
