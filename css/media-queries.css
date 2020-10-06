@@ -7,8 +7,14 @@
 }
 
 @media only screen and (max-width: 767px) {
+    nav.nav-open{
+        width: 100%;
+    }
+nav .menu-btn{
+    padding: 5px;
 
-
+    left: 50px;
+}
     .background {
         background-image: url("../images/mob_background.jpg");
     }
