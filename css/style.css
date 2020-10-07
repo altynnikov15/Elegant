@@ -520,6 +520,7 @@ nav.nav-open {
     background: rgba(255, 255, 255, 0.9);
 }
 
+
 nav .menu-btn {
     position: absolute;
     top: 10px;
@@ -531,8 +532,13 @@ nav .menu-btn {
     cursor: pointer;
     z-index: 2;
 }
+.nav-open .menu-btn{
+    right: 0;
+    left: 300px;
+}
 
 nav .menu-btn .line {
+
     padding: 0;
     width: 30px;
     background: #fff;
