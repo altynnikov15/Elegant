@@ -21,18 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="74a35247-bf7b-450e-ad91-9fc0f423abed" name="Default Changelist" comment="add madia-queries for index.html&#10;add page about &#10;add madia-queries for about">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/media-queries.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media-queries.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/media-queries_blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media-queries_blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style_about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style_blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style_contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_contact.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style_project.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_project.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style_work.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_work.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/work.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/media-queries_contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media-queries_contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/media_queries_work.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media_queries_work.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +102,7 @@
       <workItem from="1601905367416" duration="33000" />
       <workItem from="1601911962316" duration="1065000" />
       <workItem from="1602019488136" duration="9769000" />
-      <workItem from="1602534925806" duration="2960000" />
+      <workItem from="1602534925806" duration="3589000" />
     </task>
     <task id="LOCAL-00001" summary="add workers info whit pic">
       <created>1600075036724</created>
