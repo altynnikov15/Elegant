@@ -53,6 +53,41 @@ nav .menu-btn{
     flex-direction: column;
 
 }
+.pic_block{
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+.content{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.workers{
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+.workers_block{
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+.lp_block{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.about_blog{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.contact_us{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+footer{
+    padding-left: 15px;
+    padding-right: 15px;
+}
 }
 
 @media only screen and (max-width: 420px) {
